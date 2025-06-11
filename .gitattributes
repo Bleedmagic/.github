@@ -1,2 +1,4 @@
-* text=auto eol=lf
 *.md linguist-detectable=true
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+* text=auto eol=lf
