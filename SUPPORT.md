@@ -26,7 +26,7 @@ However, please clearly explain what you are trying to do,
 and list what you have already attempted to solve the problem.
 Provide code samples, but **do not** attach your entire project
 for someone else to debug.
-Review our [contributing guidelines](https://github.com/bleedmagic/.github/blob/master/CONTRIBUTING.md).
+Review our [contributing guidelines](https://github.com/bleedmagic/.github/blob/main/CONTRIBUTING.md).
 
 ## What NOT to do
 
