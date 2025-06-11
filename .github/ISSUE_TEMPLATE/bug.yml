@@ -1,6 +1,8 @@
 name: Bug report
 description: Report a problem you encountered
 labels: ["bug"]
+assignees:
+  - bleedmagic
 body:
   - type: markdown
     attributes:
