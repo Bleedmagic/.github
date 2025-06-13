@@ -5,15 +5,3 @@ Thumbs.db
 # Editor folders
 .vscode/
 .idea/
-
-# Logs
-*.log
-
-# Node / Python / build tool cache
-node_modules/
-dist/
-.env
-__pycache__/
-
-# Local overrides
-*.local
